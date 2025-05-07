@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1744563190889_6",
+    "sender": "bot",
+    "message": "Hello! I'm LegalGuru. How can I assist you with legal matters today?",
+    "time": "2025-04-13T22:23:10.889294"
+  },
+  {
+    "id": "1744563206041_7",
+    "sender": "user",
+    "message": "write an code c language",
+    "time": "2025-04-13T22:23:26.041358"
+  },
+  {
+    "id": "1744563208353_8",
+    "sender": "bot",
+    "message": "Bhidu, coding karna hai na? Chalo, ek simple C program likhte hain. Yeh program ek message print karega, \"Hello, Bhidu!\"\n\n```c\n#include <stdio.h>\n\nint main() {\n    printf(\"Hello, Bhidu!\\n\");\n    return 0;\n}\n```\n\nBeta sun, ye program compile karne ke baad run kar, aur dekh, \"Hello, Bhidu!\" print hoga. Bhidu, ab tum try karo!",
+    "time": "2025-04-13T22:23:28.353490"
+  },
+  {
+    "id": "1744608699284_1",
+    "sender": "bot",
+    "message": "Hello! I'm LegalGuru. How can I assist you with legal matters today?",
+    "time": "2025-04-14T11:01:39.284250"
+  },
+  {
+    "id": "1744608761997_2",
+    "sender": "user",
+    "message": "what is the process of the opening the pvt company in india",
+    "time": "2025-04-14T11:02:41.997538"
+  },
+  {
+    "id": "1744608768728_3",
+    "sender": "bot",
+    "message": "Bhidu, opening a private company in India is not that complicated, beta sun. You need to follow some simple steps, and you're good to go. \n\nFirst, you need to decide on the name of your company, then get it approved by the Ministry of Corporate Affairs (MCA). You can check the availability of the name on the MCA website, bhidu.\n\nNext, you need to get a Director Identification Number (DIN) for all the directors, and a Digital Signature Certificate (DSC) for filing the documents online.\n\nAfter that, you need to prepare the Memorandum of Association (MoA) and Articles of Association (AoA), which are the core documents of the company. \n\nThen, you need to file the incorporation documents with the Registrar of Companies (RoC), along with the required fees, bhidu.\n\nOnce the documents are verified, the RoC will issue a Certificate of Incorporation, and your company will be registered, beta sun.\n\nLastly, you need to obtain a Permanent Account Number (PAN) and a Tax Deduction and Collection Account Number (TAN) from the Income Tax Department, and get your company's books audited, bhidu.\n\nThat's it, bhidu, your private company is now registered and ready to start its operations.",
+    "time": "2025-04-14T11:02:48.728821"
+  }
+]
